@@ -58,7 +58,7 @@ Results on COCO val2017 Ground Truth data.
 
 ## License
 
-## Pytorch Version
+## Other Implementations
 
 [Pytorch Version](https://github.com/salihkaragoz/pose-residual-network-pytorch)
 
