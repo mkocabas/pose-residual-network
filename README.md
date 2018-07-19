@@ -2,7 +2,7 @@
 
 This is the code for the paper
 
-Muhammed Kocabas, Salih Karagoz, Emre Akbas. MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network. In ECCV, 2018. [arxiv](https://arxiv.org/abs/1807.04067)
+Muhammed Kocabas, Salih Karagoz, Emre Akbas. MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network. In ECCV, 2018. [Arxiv](https://arxiv.org/abs/1807.04067)
 
 This repo includes PRN (pose residual network) module introduced in Section 3.2 of the  paper.
 
@@ -28,7 +28,7 @@ scikit-image
 1. Clone this repository: 
 `git clone https://github.com/mkocabas/pose-residual-network.git`
 
-2. Install [Tensorlflow](https://www.tensorflow.org/install/) according to your system.
+2. Install [Tensorflow](https://www.tensorflow.org/install/).
 
 3. ```pip install -r src/requirements.txt```
 
