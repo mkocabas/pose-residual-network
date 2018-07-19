@@ -1,0 +1,7 @@
+keras
+numpy
+tqdm
+Cython
+matplotlib
+pycocotools
+scikit-image
