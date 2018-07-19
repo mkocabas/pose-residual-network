@@ -41,7 +41,7 @@ scikit-image
 For more options take a look at `opt.py`
 
 ## Results
-We have just published only the results on COCO Val Groun Truth.
+We have just published only the results on COCO Val Ground Truth.
 
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] = 0.894
