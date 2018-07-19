@@ -4,7 +4,7 @@ This is the code for the paper
 
 Muhammed Kocabas, Salih Karagoz, Emre Akbas. MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network. In ECCV, 2018. [arxiv](https://arxiv.org/abs/1807.04067)
 
-This is the code for the PRN (pose residual network) module introduced in Section 3.2 of the  paper.
+This repo includes PRN (pose residual network) module introduced in Section 3.2 of the  paper.
 
 
 ## Getting Started
@@ -41,7 +41,7 @@ scikit-image
 For more options take a look at `opt.py`
 
 ## Results
-We have just published only the results on COCO Val Ground Truth.
+Results on COCO val2017 Ground Truth data.
 
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] = 0.894
@@ -55,8 +55,6 @@ We have just published only the results on COCO Val Ground Truth.
  Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets= 20 ] = 0.896
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ] = 0.947
 ```
-
-## Authors
 
 ## License
 
