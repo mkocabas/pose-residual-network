@@ -73,6 +73,6 @@ If you find this code useful for your research, please consider citing the follo
   Title          = {Multi{P}ose{N}et: Fast Multi-Person Pose Estimation using Pose Residual Network},
   Author         = {Kocabas, Muhammed and Karagoz, Salih and Akbas, Emre},
   Booktitle      = {European Conference on Computer Vision (ECCV)},
-  Year           = {2017}
+  Year           = {2018}
 }
 ```
