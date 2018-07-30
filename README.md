@@ -1,6 +1,3 @@
-**WARNING:** _This repository is under active construction._
-
-
 # Pose Residual Network
 
 This is the code for the paper
