@@ -1,10 +1,10 @@
 # Pose Residual Network
 
-This is the code for the paper
+This repository contains a PyTorch implementation of the Pose Residual Network (PRN) presented in our ECCV 2018 paper:
 
 Muhammed Kocabas, Salih Karagoz, Emre Akbas. MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network. In ECCV, 2018. [Arxiv](https://arxiv.org/abs/1807.04067)
 
-This repo includes PRN (pose residual network) module introduced in Section 3.2 of the  paper.
+PRN is described in Section 3.2 of the  paper.
 
 
 ## Getting Started
@@ -64,7 +64,7 @@ Results on COCO val2017 Ground Truth data.
 
 
 ## Citation
-If you find this code useful for your research, please consider citing the following paper:
+If you find this code useful for your research, please consider citing our paper:
 ```
 @Inproceedings{kocabas18prn,
   Title          = {Multi{P}ose{N}et: Fast Multi-Person Pose Estimation using Pose Residual Network},
