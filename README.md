@@ -1,6 +1,6 @@
 # Pose Residual Network
 
-This repository contains a PyTorch implementation of the Pose Residual Network (PRN) presented in our ECCV 2018 paper:
+This repository contains a Keras implementation of the Pose Residual Network (PRN) presented in our ECCV 2018 paper:
 
 Muhammed Kocabas, Salih Karagoz, Emre Akbas. MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network. In ECCV, 2018. [Arxiv](https://arxiv.org/abs/1807.04067)
 
